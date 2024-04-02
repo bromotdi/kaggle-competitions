@@ -13,6 +13,10 @@ Sunstella Foundation is joined by Persyst, Jazz Pharmaceuticals, and the Clinica
 
 Your work in automating EEG analysis will help doctors and brain researchers detect seizures and other types of brain activity that can cause brain damage, so that they can give treatments more quickly and accurately. The algorithms developed in this contest may also help researchers who are working to develop drugs to treat and prevent seizures.
 
+Examples of EEG Patterns with Different Levels of Expert Agreement:
+
+![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/01002efa-a974-43c9-9905-a130acfcf5d8)
+
 There are six patterns of interest for this competition: seizure (SZ), generalized periodic discharges (GPD), lateralized periodic discharges (LPD), lateralized rhythmic delta activity (LRDA), generalized rhythmic delta activity (GRDA), or “other”. Detailed explanations of these patterns are available here.
 
 The EEG segments used in this competition have been annotated, or classified, by a group of experts. In some cases experts completely agree about the correct label. On other cases the experts disagree. We call segments where there are high levels of agreement “idealized” patterns. Cases where ~1/2 of experts give a label as “other” and ~1/2 give one of the remaining five labels, we call “proto patterns”. Cases where experts are approximately split between 2 of the 5 named patterns, we call “edge cases”.
