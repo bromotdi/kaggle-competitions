@@ -21,4 +21,7 @@ Competition host the Common Fund’s Cellular Senescence Network (SenNet) Progra
 SenNet is joined by the Human Organ Atlas (HOA) for this competition. HOA is a digital atlas containing 3D multi-resolution imaging datasets, created at the world’s brightest synchrotron (European Synchrotron Radiation Facility), using an imaging technique called Hierarchical Phase-Contrast Tomography (HiP-CT). HiP-CT spans a previously poorly explored scale in researchers’ understanding of human anatomy, from microns to entire intact organs.
 
 
+### Evaluation
+We evaluate submissions using the surface dice metric with a tolerance of 0.0.
+
 Your efforts could ​​​​improve our understanding of the effect of vasculature on different cells in the human body. With better data, researchers could simulate the flow of blood, oxygen, or even drugs through the vessel network. They could also use the available organ images to augment their understanding of how blood vasculature changes as sex, age, and BMI change. Ultimately, you could help pave the way towards a more complete Vascular Common Coordinate Framework (VCCF) and Human Reference Atlas (HRA), which could identify how the relationships between cells affect our health.
