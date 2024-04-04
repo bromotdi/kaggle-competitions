@@ -15,3 +15,4 @@ Your body's organs and tissues depend on the interaction, spatial organization, 
 
 Currently, human expert annotators manually trace the vascular structures—a slow process. Even with expert annotators, each new dataset takes 6+ months to complete. Machine learning approaches using this manual data do not generalize well to new datasets because of the variability of both human anatomy and to changes in the image quality as HiP-CT technology continues to improve and change.
 
+Competition host the Common Fund’s Cellular Senescence Network (SenNet) Program was established to comprehensively identify and characterize the differences in senescent cells across the body, across various states of human health, and across the lifespan. SenNet provides publicly accessible atlases of senescent cells and develops innovative tools and technologies that build upon previous advances in single-cell analysis.
