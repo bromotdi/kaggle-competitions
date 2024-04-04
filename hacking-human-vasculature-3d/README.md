@@ -1,8 +1,7 @@
 # SenNet + HOA - Hacking the Human Vasculature in 3D
 #### Segment vasculature in 3D scans of human kidney
 
-
-## Link
+## Link: ![https://www.kaggle.com/competitions/blood-vessel-segmentation/overview](https://www.kaggle.com/competitions/blood-vessel-segmentation/overview)
 
 ### Overview
 The goal of this competition is to segment blood vessels. You will create a model trained on 3D Hierarchical Phase-Contrast Tomography (HiP-CT) data from human kidneys to help complete a picture of vasculature throughout a body.
