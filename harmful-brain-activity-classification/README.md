@@ -4,7 +4,7 @@
 
 ### Overview
 
-![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/c7567f13-89de-45df-9c2f-a5d2d794edb9)
+![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/00bc5917-b78e-4541-960a-6062e5a5f7b9)
 
 The goal of this competition is to detect and classify seizures and other types of harmful brain activity. You will develop a model trained on electroencephalography (EEG) signals recorded from critically ill hospital patients.
 
