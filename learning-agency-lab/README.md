@@ -12,9 +12,13 @@ Reliable automated techniques could allow researchers and industry to tap into t
 
 ### Description
 In today’s era of abundant educational data from sources such as ed tech, online learning, and research, widespread PII is a key challenge. PII’s presence is a barrier to analyze and create open datasets that advance education because releasing the data publicly puts students at risk. To reduce these risks, it’s crucial to screen and cleanse educational data for PII before public release, which data science could streamline.
+
 Manually reviewing the entire dataset for PII is currently the most reliable screening method, but this results in significant costs and restricts the scalability of educational datasets. While techniques for automatic PII detection that rely on named entity recognition (NER) exist, these work best for PII that share common formatting such as emails and phone numbers. PII detection systems struggle to correctly label names and distinguish between names that are sensitive (e.g., a student's name) and those that are not (e.g., a cited author).
+
 Competition host Vanderbilt University is a private research university in Nashville, Tennessee. It offers 70 undergraduate majors and a full range of graduate and professional degrees across 10 schools and colleges, all on a beautiful campus with state-of-the-art laboratories. Vanderbilt is optimized to inspire and nurture cross-disciplinary research that fosters groundbreaking discoveries.
+
 For this competition, Vanderbilt has partnered with The Learning Agency Lab, an Arizona-based independent nonprofit focused on developing the science of learning-based tools and programs for the social good.
+
 Your work in creating reliable automated techniques to detect PII will lead to more high-quality public educational datasets. Researchers can then tap into the potential of this previously unavailable data to develop effective tools and interventions that benefit both teachers and students.
 
 ### Evaluation
