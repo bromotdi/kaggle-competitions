@@ -1,6 +1,8 @@
 # HMS - Harmful Brain Activity Classification
 
-### Link: ![https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
+#### Classify seizures and other patterns of harmful brain activity in critically ill patients
+
+## Link: ![https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
 
 ### Overview
 
