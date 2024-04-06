@@ -1,6 +1,9 @@
 # The Learning Agency Lab - PII Data Detection
 
-## Overview
+### Overview
+
+![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/be49e574-cf9a-46f8-8f79-d2708b9bec32)
+
 The goal of this competition is to develop a model that detects personally identifiable information (PII) in student writing. Your efforts to automate the detection and removal of PII from educational data will lower the cost of releasing educational datasets. This will support learning science research and the development of educational tools.
 Reliable automated techniques could allow researchers and industry to tap into the potential that large public educational datasets offer to support the development of effective tools and interventions for supporting teachers and students.
 
