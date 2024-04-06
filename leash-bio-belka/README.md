@@ -5,6 +5,9 @@
 ## Link: ![https://www.kaggle.com/competitions/leash-BELKA](https://www.kaggle.com/competitions/leash-BELKA)
 
 ### Overview
+
+![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/59c455a2-d48a-4640-95de-24ff17f23cdb)
+
 In this competition, you’ll develop machine learning (ML) models to predict the binding affinity of small molecules to specific protein targets – a critical step in drug development for the pharmaceutical industry that would pave the way for more accurate drug discovery. You’ll help predict which drug-like small molecules (chemicals) will bind to three possible protein targets.
 
 ### Description
