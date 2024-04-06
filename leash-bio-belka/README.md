@@ -20,4 +20,5 @@ This competition aims to revolutionize small molecule binding prediction by harn
 
 Here, you’ll build predictive models to estimate the binding affinity of unknown chemical compounds to specified protein targets. You may use the training data provided; alternatively, there are a number of methods to make small molecule binding predictions without relying on empirical binding data (e.g. DiffDock, and this contest was designed to allow for such submissions).
 
-Your work will contribute to advances in small molecule chemistry used to accelerate drug discovery.
+### Evaluation
+This metric for this competition is the Mean Average Precision (micro) between the predicted probability and the observed target.
