@@ -18,19 +18,15 @@ Currently, consumer finance providers use various statistical and machine learni
 Founded in 1997, competition host Home Credit is an international consumer finance provider focusing on responsible lending primarily to people with little or no credit history. Home Credit broadens financial inclusion for the unbanked population by creating a positive and safe borrowing experience. We previously ran a competition with Kaggle that you can see here.
 Your work in helping to assess potential clients' default risks will enable consumer finance providers to accept more loan applications. This may improve the lives of people who have historically been denied due to lack of credit history.
 
-Evaluation
+### Evaluation
 Submissions are evaluated using a gini stability metric. A gini score is calculated for predictions corresponding to each WEEK_NUM.
 
 gini=2∗AUC−1
+
 A linear regression, 𝑎⋅𝑥+𝑏, is fit through the weekly gini scores, and a falling_rate is calculated as min(0,𝑎). This is used to penalize models that drop off in predictive ability.
 
 Finally, the variability of the predictions are calculated by taking the standard deviation of the residuals from the above linear regression, applying a penalty to model variablity.
 
-The final metric is calculated as
+The final metric is calculated as:
 
 stability metric=𝑚𝑒𝑎𝑛(𝑔𝑖𝑛𝑖)+88.0⋅𝑚𝑖𝑛(0,𝑎)−0.5⋅𝑠𝑡𝑑(residuals)
-
-
-Founded in 1997, competition host Home Credit is an international consumer finance provider focusing on responsible lending primarily to people with little or no credit history. Home Credit broadens financial inclusion for the unbanked population by creating a positive and safe borrowing experience. We previously ran a competition with Kaggle that you can see here.
-
-Your work in helping to assess potential clients' default risks will enable consumer finance providers to accept more loan applications. This may improve the lives of people who have historically been denied due to lack of credit history.
