@@ -1,7 +1,7 @@
 # The Learning Agency Lab - PII Data Detection
 #### Develop automated techniques to detect and remove PII from educational data.
 
-## Link:
+## Link: ![https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/overview](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/overview)
 
 ### Overview
 
