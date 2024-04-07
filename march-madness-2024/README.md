@@ -2,6 +2,9 @@
 #### Forecast the 2024 College Basketball Tournaments
 
 ### Overview
+
+![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/5bcf20ee-6532-4630-b0ba-63902e2402d3)
+
 You will be forecasting the outcomes of both the men's and women's 2024 collegiate basketball tournaments, by submitting an portfolio of brackets based on historical data.
 
 ### Description
