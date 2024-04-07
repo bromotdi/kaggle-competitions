@@ -12,6 +12,8 @@ Another year, another chance to predict the upsets, call the probabilities, and 
 
 You are provided data of historical NCAA games to forecast the outcomes of the Division 1 Men's and Women's basketball tournaments. This competition is the official 2024 edition, with points, medals, prizes, and basketball glory at stake.
 
+![image](https://github.com/bromotdi/kaggle-competitions/assets/80320446/1a17a021-e9c8-4b4d-ba0d-41e67aa3ece9)
+
 We have made an update to the competition format this year. You will be making bracket predictions for both tournaments, similar to traditional tournament contests, but you will be allowed to submit an entire portfolio of brackets, anywhere from 1 to 100,000.
 
 Please note that submissions to this competition must be made through Kaggle Notebooks. This will enable Kaggle to rerun your submissions using the final qualifying tournament teams, prior to the start of the tournaments. See Code Requirements below for more details on how to submit.
